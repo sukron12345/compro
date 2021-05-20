@@ -16,9 +16,42 @@ section {
 }
 
 h1 {
-  background-color: red;
+  color: orange;
+  font-family: sans-serif;
+  text-align: center;
 }
 
-/* p {
-  background-color: blue;
-} */
+.kotak {
+  padding: 50px;
+  width: 100px;
+  color: #fff;
+  margin: 10px;
+  background: orange;
+}
+
+#kotak {
+  width: 400px;
+  color: #fff;
+  background: blue;
+  padding: 50px;
+}
+h1 {
+  color: orange;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.kotak {
+  padding: 50px;
+  width: 100px;
+  color: #fff;
+  margin: 10px;
+  background: orange;
+}
+
+#kotak {
+  width: 400px;
+  color: #fff;
+  background: blue;
+  padding: 50px;
+}
